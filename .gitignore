@@ -1,0 +1,9 @@
+.env
+
+/__pycache__
+/airflow
+/test1
+
+chromedriver
+chromedriver-mac-arm64
+chromedriver-mac-arm64-backup
