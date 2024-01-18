@@ -45,6 +45,4 @@ def export_data():
 
 if __name__ == "__main__":
 
-    # print(export_data())
-    today = datetime.datetime.today()+datetime.timedelta(days=7)
-    print(today.year, today.month, today.day)
+    print(export_data())

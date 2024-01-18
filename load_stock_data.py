@@ -55,6 +55,7 @@ def mongodb_data_to_postgresql(stock_list):
                         pay_date = pay_date)
         
         session.add(load_data)
+
     session.commit()
     session.close()
 

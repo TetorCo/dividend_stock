@@ -1,7 +1,16 @@
 .env
 
 /__pycache__
-/airflow
+/airflow/config
+/airflow/dags/__pycache__
+/airflow/dags/abc.py
+/airflow/dags/airflow_test.py
+/airflow/dags/export_mongodb_test.py
+/airflow/dags/postgres_test.py
+/airflow/logs
+/airflow/plugins
+/airflow/docker-compose1.yml
+
 /test1
 
 chromedriver
